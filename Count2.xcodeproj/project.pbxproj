@@ -14,6 +14,7 @@
 		5B33625F1C6516000098AD4A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5B33625D1C6516000098AD4A /* LaunchScreen.storyboard */; };
 		5B33626A1C6516000098AD4A /* Count2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B3362691C6516000098AD4A /* Count2Tests.swift */; };
 		5B3362751C6516000098AD4A /* Count2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B3362741C6516000098AD4A /* Count2UITests.swift */; };
+		5B3362831C65164E0098AD4A /* 明治神宮.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5B3362821C65164E0098AD4A /* 明治神宮.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		5B3362701C6516000098AD4A /* Count2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Count2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5B3362741C6516000098AD4A /* Count2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Count2UITests.swift; sourceTree = "<group>"; };
 		5B3362761C6516000098AD4A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5B3362821C65164E0098AD4A /* 明治神宮.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "明治神宮.jpg"; path = "../../明治神宮.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		5B3362531C6516000098AD4A /* Count2 */ = {
 			isa = PBXGroup;
 			children = (
+				5B3362821C65164E0098AD4A /* 明治神宮.jpg */,
 				5B3362541C6516000098AD4A /* AppDelegate.swift */,
 				5B3362561C6516000098AD4A /* ViewController.swift */,
 				5B3362581C6516000098AD4A /* Main.storyboard */,
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5B3362831C65164E0098AD4A /* 明治神宮.jpg in Resources */,
 				5B33625F1C6516000098AD4A /* LaunchScreen.storyboard in Resources */,
 				5B33625C1C6516000098AD4A /* Assets.xcassets in Resources */,
 				5B33625A1C6516000098AD4A /* Main.storyboard in Resources */,
